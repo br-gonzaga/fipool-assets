@@ -1,0 +1,2 @@
+# fipool-assets
+FiPool
