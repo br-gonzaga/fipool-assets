@@ -1,41 +1,15 @@
 {
   "name": "FiPool",
   "symbol": "FIP",
-  "description": "FiPool (FIP) is a DeFi governance and liquidity coordination token for the FIPX ecosystem. It enables strategic liquidity mining and token pairing across supported pools.",
-  "image": "https://github.com/br-gonzaga/fipool-assets/blob/main/Logo-FiPool.png?raw=true",
-  "external_url": "https://fipool.tech",
-  "seller_fee_basis_points": 0,
-  "attributes": [
-    {
-      "trait_type": "Token",
-      "value": "Governance"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Ecosystem",
-      "value": "FIPX"
-    }
-  ],
-  "collection": {
-    "name": "FiPool",
-    "family": "FIPX Tokens"
+  "description": "A token built to simplify global crypto exchanges, driving financial connectivity and new opportunities in decentralized finance.",
+  "extensions": {
+    "website": "https://fipool.tech",
+    "twitter": "https://x.com/FiPoolTec",
+    "discord": "https://discord.gg/5B7FyYSJ"
   },
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/br-gonzaga/fipool-assets/main/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "BJLYmLjgeoqB5jJXawBowhF3rJqmirUeakF9cCfHsmXQ",
-        "share": 100
-      }
-    ]
+  "image": "https://ipfs.io/ipfs/Qmdp1G8CCn4PzcKD4RSkKDXEKTu2QftLpSmvw3KrnUrm6u",
+  "creator": {
+    "name": "Smithii Tools",
+    "site": "https://tools.smithii.io/token-creator/solana"
   }
 }
