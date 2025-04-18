@@ -1,0 +1,41 @@
+{
+  "name": "FiPool",
+  "symbol": "FIP",
+  "description": "FiPool (FIP) is a DeFi governance and liquidity coordination token for the FIPX ecosystem. It enables strategic liquidity mining and token pairing across supported pools.",
+  "image": "https://github.com/br-gonzaga/fipool-assets/blob/main/Logo-FiPool.png?raw=true",
+  "external_url": "https://fipool.tech",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Token",
+      "value": "Governance"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Ecosystem",
+      "value": "FIPX"
+    }
+  ],
+  "collection": {
+    "name": "FiPool",
+    "family": "FIPX Tokens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/br-gonzaga/fipool-assets/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BJLYmLjgeoqB5jJXawBowhF3rJqmirUeakF9cCfHsmXQ",
+        "share": 100
+      }
+    ]
+  }
+}
