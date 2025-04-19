@@ -11,6 +11,7 @@
 - **Max Supply**: 10,000,000 FIP
 - **Category**: Governance and Infrastructure Token
 - **Website**: [fipool.tech](https://fipool.tech)
+- **Description**: A token built to simplify global crypto exchanges, driving financial connectivity and new opportunities in decentralized finance.
 
 ---
 
